@@ -6,7 +6,7 @@
 
 于是...
 
-![](./imgs/eg.jpg)
+![](imgs/eg.jpg)
 
 ## 🚀 开始
 
@@ -38,13 +38,14 @@ $borderColor = #eaecef
 
 ### 常见问题
 > 如何导出为 pdf?
+
 chrome 页面中右键 -> 打印 -> 另存为 pdf
 
 > 导出的 pdf 如何控制只有 1 页？
 
-方法一：.vuepress/override.styl 修改基准字体大小 $fontSize
+方法一：.vuepress/override.styl 修改基准字体大小 $fontSize <br>
 方法二：chrome 打印 -> 更多设置 -> 缩放
 
-## 💡 加入
+## 💡 协作
 
 如果你有更好的想法，欢迎 PR 👏
