@@ -5742,9 +5742,9 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-theme-resume@^0.0.1:
-  version "0.0.1"
-  resolved "http://registry.npm.taobao.org/vuepress-theme-resume/download/vuepress-theme-resume-0.0.1.tgz#8b4326a5fe3021821ab21a0feaa5bc4b4ba8b365"
+vuepress-theme-resume@^0.0.3:
+  version "0.0.3"
+  resolved "http://registry.npm.taobao.org/vuepress-theme-resume/download/vuepress-theme-resume-0.0.3.tgz#4ffd0348bd894b2f86a1a0bd21d86e40816f166d"
 
 vuepress@^0.10.0:
   version "0.10.0"

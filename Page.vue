@@ -34,8 +34,7 @@ export default {
       }
 
       > ul {
-        flex: 0.5;
-        flex-shrink: 0;
+        float: right;
         font-size: 12px;
         font-weight: normal;
         margin: 0;
@@ -47,7 +46,7 @@ export default {
 
           > span {
             flex-shrink: 0;
-            width: 5em;
+            width: 6em;
             text-align right;
 
             &::after {
