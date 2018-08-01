@@ -71,3 +71,9 @@ chrome 页面中右键 -> 打印 -> 另存为 pdf
 如果你有更好的想法，欢迎 PR 👏
 
 如果它对你有所帮助，给我一个 star～ ⭐️
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2018-present, momoko
