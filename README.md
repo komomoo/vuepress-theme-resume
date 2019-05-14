@@ -19,7 +19,7 @@
 
 2.  第二步：cd 进入项目目录
 
-> 若环境中不存在 `yarn`/`npm`，则需要[安装yarn](https://yarnpkg.com/zh-Hans/docs/install)
+> 若环境中不存在 `yarn`/`npm`，则需要先[安装yarn](https://yarnpkg.com/zh-Hans/docs/install)
 
 ```bash
 # 安装依赖包
