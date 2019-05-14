@@ -17,7 +17,7 @@
 
 1.  第一步：git clone 或 download 该项目
 
-2.  第二步：
+2.  第二步：cd 进入项目目录
 
 ```bash
 # 安装依赖包
@@ -27,7 +27,9 @@ yarn # 或 npm i
 yarn dev # 或 npm run dev
 ```
 
-3.  第三步：修改 example/README.md
+`yarn dev`运行完后，使用浏览器打开提供的网址
+
+3.  第三步：修改 example/README.md，保存后网页将自动热更新
 
 ### 方式二：使用主题
 
