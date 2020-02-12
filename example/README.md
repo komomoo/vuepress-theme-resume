@@ -4,7 +4,7 @@
     <li><span>电话</span>xxx xxxx xxxx</li>
     <li><span>QQ</span>xxxxxxxxxxxxx</li>
     <li><span>邮箱</span><a href="mailto:xxxxxxxx@foxmail.com">xxxxxxxx@foxmail.com</a></li>
-    <li><span>Github</span><a>github.com/wannaxiao</a></li>
+    <li><span>Github</span><a>github.com/yiliang114</a></li>
   </ul>
 </h1>
 
