@@ -1,17 +1,18 @@
 <template>
   <div class="page">
-    <Content :custom="false"/>
+    <Content class="content"
+      :custom="false" />
   </div>
 </template>
 
 <script>
 export default {
-  props: ['sidebarItems'],
-}
+  props: ["sidebarItems"]
+};
 </script>
 
 <style lang="stylus">
-@import './styles/config.styl';
+@import '../styles/config.styl';
 
 .page {
   .content {
@@ -30,7 +31,7 @@ export default {
 
       > span {
         flex: 1;
-        transform: translateY(-.2em)
+        transform: translateY(-0.2em);
       }
 
       > ul {
@@ -47,11 +48,11 @@ export default {
           > span {
             flex-shrink: 0;
             width: 6em;
-            text-align right;
+            text-align: right;
 
             &::after {
               content: ':';
-              margin 0 0.25em;
+              margin: 0 0.25em;
             }
           }
         }
