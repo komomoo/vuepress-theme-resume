@@ -1,6 +1,6 @@
 module.exports = {
-  base: '/',
-  dest: 'dist',
+  base: '/vuepress-theme-resume/example/dist/',
+  dest: 'example/dist',
   theme: 'resume',
   themeConfig: {
     sidebar: [

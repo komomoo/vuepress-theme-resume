@@ -4,19 +4,19 @@
     <li><span>电话</span>xxx xxxx xxxx</li>
     <li><span>QQ</span>xxxxxxxxxxxxx</li>
     <li><span>邮箱</span><a href="mailto:xxxxxxxx@foxmail.com">xxxxxxxx@foxmail.com</a></li>
-    <li><span>Github</span><a>github.com/yiliang114</a></li>
+    <li><span>Github</span><a>github.com/wannaxiao</a></li>
   </ul>
 </h1>
 
 ## 教育经历
 
-硕士 xxxxxxxx 大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx 大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
+硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
+本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
 
 ## 工作经历
 
-xxxxxxxxxxxx 公司(初创)-xxxxx 部门 xxxxxxx 岗位<span class="right">2016.07 - 至今</span><br>
-xxxxxxxxxxxx 公司(上市)-xxxxxxxxx 部门 xxxxxxx 岗位<span class="right">2014.07 - 2016.07</span>
+xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
+xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014.07 - 2016.07</span>
 
 - 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
 
