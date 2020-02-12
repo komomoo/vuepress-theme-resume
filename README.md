@@ -46,7 +46,7 @@ theme: 'resume',
 
 ### 样式覆盖
 
-创建 .vuepress/palette.styl 文件
+创建 .vuepress/styles/palette.styl 文件
 
 ```css
 /* font */
