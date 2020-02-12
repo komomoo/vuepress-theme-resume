@@ -18,11 +18,13 @@
   ],
   "scripts": {
     "dev": "vuepress dev example",
-    "build": "vuepress build example"
+    "build": "vuepress build example",
+    "release": "sh scripts/release.sh"
   },
   "devDependencies": {
     "vuepress": "^1.2.0",
-    "vuepress-theme-resume": "^1.0.0"
+    "vuepress-theme-resume": "^1.0.0",
+    "standard-version": "^4.4.0"
   },
   "engines": {
     "node": ">= 6.0.0",
