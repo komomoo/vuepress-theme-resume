@@ -1,9 +1,3 @@
-<!--
- * @Author: mrjzhang
- * @Date: 2020-02-12 11:53:09
- * @LastEditors: mrjzhang
- * @LastEditTime: 2020-02-12 12:10:43
- -->
 <script>
 import { isActive, hashRE, groupHeaders } from "../utils";
 
