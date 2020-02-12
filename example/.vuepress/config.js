@@ -1,6 +1,7 @@
 module.exports = {
   base: '/',
   dest: 'dist',
+  theme: 'resume',
   themeConfig: {
     sidebar: [
       {
