@@ -46,7 +46,7 @@ theme: 'resume',
 
 ### 样式覆盖
 
-创建 .vuepress/override.styl 文件
+创建 .vuepress/palette.styl 文件
 
 ```css
 /* font */
@@ -69,7 +69,7 @@ chrome 页面中右键 -> 打印 -> 另存为 pdf。
 
 > 导出的 pdf 如何控制只有 1 页？
 
-方法一：.vuepress/override.styl 修改基准字体大小 $fontSize <br>
+方法一：.vuepress/palette.styl 修改基准字体大小 $fontSize <br>
 方法二：chrome 打印 -> 更多设置 -> 缩放
 
 ## 💡 协作

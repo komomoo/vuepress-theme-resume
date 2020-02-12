@@ -5,7 +5,7 @@
   "author": "momoko <ko.momo@qq.com>",
   "license": "MIT",
   "private": false,
-  "main": "Layout.vue",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/wannaxiao/vuepress-theme-resume"
@@ -18,11 +18,13 @@
   ],
   "scripts": {
     "dev": "vuepress dev example",
-    "build": "vuepress build example"
+    "build": "vuepress build example",
+    "release": "sh scripts/release.sh"
   },
   "devDependencies": {
-    "vuepress": "^0.10.0",
-    "vuepress-theme-resume": "^0.0.3"
+    "vuepress": "^1.2.0",
+    "vuepress-theme-resume": "^1.0.0",
+    "standard-version": "^4.4.0"
   },
   "engines": {
     "node": ">= 6.0.0",

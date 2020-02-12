@@ -6,7 +6,7 @@ module.exports = {
     sidebar: [
       {
         collapsable: false,
-        children: [ '/' ]
+        children: ['/']
       }
     ]
   }
