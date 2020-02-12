@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "编写简洁优雅的markdown简历，由 vuepress 驱动",
   "author": "momoko <ko.momo@qq.com>",
   "license": "MIT",
@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "vuepress": "^1.2.0",
-    "vuepress-theme-resume": "^1.0.0",
+    "vuepress-theme-resume": "^1.0.1",
     "standard-version": "^4.4.0"
   },
   "engines": {
