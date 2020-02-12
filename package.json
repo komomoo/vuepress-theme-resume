@@ -17,12 +17,11 @@
     "resume"
   ],
   "scripts": {
-    "dev": "vuepress dev example",
+    "start": "vuepress dev example",
     "build": "vuepress build example"
   },
   "devDependencies": {
-    "vuepress": "^0.10.0",
-    "vuepress-theme-resume": "^0.0.3"
+    "vuepress": "^1.2.0"
   },
   "engines": {
     "node": ">= 6.0.0",
