@@ -1,9 +1,3 @@
-<!--
- * @Author: mrjzhang
- * @Date: 2020-02-12 11:53:09
- * @LastEditors: mrjzhang
- * @LastEditTime: 2020-02-12 12:16:04
- -->
 <template>
   <router-link class="nav-link"
     :to="link"

@@ -1,12 +1,11 @@
 module.exports = {
-  base: '/vuepress-theme-resume/example/dist/',
-  dest: 'example/dist',
-  theme: 'resume',
+  base: '/',
+  dest: 'dist',
   themeConfig: {
     sidebar: [
       {
         collapsable: false,
-        children: [ '/' ]
+        children: ['/']
       }
     ]
   }

@@ -5,7 +5,7 @@
   "author": "momoko <ko.momo@qq.com>",
   "license": "MIT",
   "private": false,
-  "main": "Layout.vue",
+  "main": "layouts/Layout.vue",
   "repository": {
     "type": "git",
     "url": "https://github.com/wannaxiao/vuepress-theme-resume"
