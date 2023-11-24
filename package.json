@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-resume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "编写简洁优雅的markdown简历，由 vuepress 驱动",
   "author": "momoko <ko.momo@qq.com>",
   "license": "MIT",
@@ -8,7 +8,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wannaxiao/vuepress-theme-resume"
+    "url": "https://github.com/komomoo/vuepress-theme-resume"
   },
   "keywords": [
     "vuepress",
