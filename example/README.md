@@ -2,9 +2,9 @@
   <span>姓名</span>
   <ul>
     <li><span>电话</span>xxx xxxx xxxx</li>
-    <li><span>QQ</span>xxxxxxxxxxxxx</li>
-    <li><span>邮箱</span><a href="mailto:xxxxxxxx@foxmail.com">xxxxxxxx@foxmail.com</a></li>
-    <li><span>Github</span><a>github.com/wannaxiao</a></li>
+    <li><span>微信</span>xxxxxxxxxxx</li>
+    <li><span>邮箱</span><a href="mailto:ko.momo@qq.com">ko.momo@qq.com</a></li>
+    <li><span>Github</span><a>github.com/komomoo</a></li>
   </ul>
 </h1>
 
@@ -61,7 +61,6 @@ xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014
 - 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
 - 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 - 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 - 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 - XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
 
