@@ -13,7 +13,7 @@
 
 ## 🚀 开始
 
-### 方式一：直接开始
+### 直接开始
 
 1.  第一步：git clone 或 download 该项目
 
@@ -33,16 +33,6 @@ yarn dev # 或 npm run dev
 
 3.  第三步：修改 example/README.md，保存后网页将自动热更新
 
-### 方式二：使用主题
-
-```bash
-yarn add -D vuepress-theme-resume # 或使用npm：npm i -D vuepress-theme-resume
-```
-
-```js
-// .vuepress/config.js 中添加
-theme: 'resume',
-```
 
 ### 样式覆盖
 
